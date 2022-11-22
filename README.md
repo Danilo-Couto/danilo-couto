@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danilo-Couto](https://github.com/Danilo-Couto)
 
-- 📝 I regularly write articles on [https://portfolio-danilo-couto.vercel.app/](https://portfolio-danilo-couto.vercel.app/)
+- 📝 My portfolios is on [https://portfolio-danilo-couto.vercel.app/](https://portfolio-danilo-couto.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Jest, Mocha, NodeJs, TypeScript, MySql, Mongo, Docker, Python**
 
