@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/danilocouto/](https://www.linkedin.com/in/danilocouto/)
 
-- ⚡ Fun fact **Travelled 116.000 km on motorbike around the 3 Americas, day trader and hostel owner**
+- ⚡ Curious fact: **I travelled 116.000 km on motorbike around the 3 Americas and I own beach hostel at Pipa RN Brazil - http://pousadaempipa.com.br/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
