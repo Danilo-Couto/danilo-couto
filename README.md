@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilo-couto&label=Profile%20views&color=0e75b6&style=flat" alt="danilo-couto" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danilo-Couto](https://github.com/Danilo-Couto)
 
