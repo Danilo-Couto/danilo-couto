@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Danilo Couto</h1>
-<h3 align="center">An entusiastic, self learner and entrepreneur software developer from Brazil.</h3>
+<h1 align="center">Oi 👋, Eu sou Danilo Couto</h1>
+<h3 align="center">Um aventureiro entusiasmado por viagens, moto, música, surf e, claro, tecnologia. Ex-publicitário e agora desenvolvedor auto-didata e empreendedor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilo-couto&label=Profile%20views&color=0e75b6&style=flat" alt="danilo-couto" /> </p>
 
-- 🌱 I’m currently learning **Python** and **Java**
+- 💬 **HTML, CSS, Javascript, React, Jest, Mocha, NodeJs, TypeScript, MySql, Mongo, Docker, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Danilo-Couto](https://github.com/Danilo-Couto)
+- 🌱 Atualmente aprendenddo **Python** e **Java**
 
-- 📝 My portfolio is on [https://portfolio-danilo-couto.vercel.app/](https://portfolio-danilo-couto.vercel.app/)
+- 👨‍💻 Meus projetos estão em [https://github.com/Danilo-Couto](https://github.com/Danilo-Couto)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Jest, Mocha, NodeJs, TypeScript, MySql, Mongo, Docker, Python**
+- 📝 Meu portfolio é este [https://portfolio-danilo-couto.vercel.app/](https://portfolio-danilo-couto.vercel.app/)
 
-- 📫 How to reach me **danilocoutodev@gmail.com**
+- 📫 Meu e-mail é **danilocoutodev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/danilocouto/](https://www.linkedin.com/in/danilocouto/)
+- 📄 Meu Linkedin é [https://www.linkedin.com/in/danilocouto/](https://www.linkedin.com/in/danilocouto/)
 
-- ⚡ Curious fact: **I travelled 116.000 km on motorbike around the 3 Americas and I own beach hostel at Pipa RN Brazil - http://pousadaempipa.com.br/**
+- ⚡ Curiosidade: **Eu viajei por mais de 135 mil quilômetroos de moto do Brasil ao Alasca EUA ao Ushuaia Argentina**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
