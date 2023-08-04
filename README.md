@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Danilo Couto</h1>
+<h1 align="center">👋, Eu, Danilo Couto, Dev!</h1>
 <h3 align="center">Um aventureiro entusiasmado por viagens, moto, música, surf e, claro, tecnologia. Ex-publicitário e agora desenvolvedor auto-didata e empreendedor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilo-couto&label=Profile%20views&color=0e75b6&style=flat" alt="danilo-couto" /> </p>
