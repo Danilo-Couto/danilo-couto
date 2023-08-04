@@ -5,7 +5,7 @@
 
 - 💬 **HTML, CSS, Javascript, React, Jest, Mocha, NodeJs, TypeScript, MySql, Mongo, Docker, Python**
 
-- 🌱 Atualmente aprendenddo **Python** e **Java**
+- 🌱 Atualmente aprendendo **Python** e **Java**
 
 - 👨‍💻 Meus projetos estão em [https://github.com/Danilo-Couto](https://github.com/Danilo-Couto)
 
