@@ -8,9 +8,9 @@
   
 - 🌱 Atualmente aprendendo **Python** e **Java**
 
-- 👨‍💻 Meus projetos estão em [https://github.com/Danilo-Couto](https://github.com/Danilo-Couto)
+- 👨‍💻 Meus projetos estão em https://github.com/Danilo-Couto
 
-- 📝 Meu portfolio é este [https://portfolio-danilo-couto.vercel.app/](https://portfolio-danilo-couto.vercel.app/)
+- 📝 Meu portfolio é este https://danilo-couto-portfolio.vercel.app/
 
 - 📫 Meu e-mail é **danilocoutodev@gmail.com**
 
