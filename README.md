@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilo-couto&label=Profile%20views&color=0e75b6&style=flat" alt="danilo-couto" /> </p>
 
-- 💬 **HTML, CSS, Javascript/ TypeScript/ NodeJS, React/ NextJS, Python**
+- 💬 **Javascript, TypeScript, Java, Python**
 - Testes Unitários, Testes End-To-End, MySql, MongoDB, Docker
   
 - 🌱 Atualmente aprendendo **Python** e **Java**
